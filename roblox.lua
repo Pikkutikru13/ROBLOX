@@ -20,7 +20,8 @@ Prop = {Damage = 42, Legdmg = 34, AS = 28, ShockDMG = 50, Rage = 200, RageIncome
 Prop.AS = Prop.AS/300
 Cam = workspace.CurrentCamera
 
-ToolIcon = "http://www.roblox.com/asset/?id=49192762"
+ToolIcon = "http://www.roblox.com/asset/?id=.49192762"
+
 MouseIc = "http://www.roblox.com/asset/?id=49192792"
 MouseDo = "http://www.roblox.com/asset/?id=49192819"
 
